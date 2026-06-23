@@ -16,7 +16,7 @@ Todo o controle é feito pelo bloco Matlab Fuction. Que se baseia na ideia de ca
 Codigo disponivel em : matlab_function/logica_controle_banco/logica_controle.m
 
 ## Arquivo principal
-- `capacitor_bank.slx`
+- `Banco_Capacitores_Automatico.slx`
 
 ##  Resultados
 
